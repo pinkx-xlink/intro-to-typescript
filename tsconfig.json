@@ -6,6 +6,7 @@
     "outDir": "./dist",
     "removeComments": true,
     "noEmitOnError": true,
+    //"sourceMap": true,
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
